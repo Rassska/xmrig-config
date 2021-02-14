@@ -1,0 +1,3 @@
+
+
+# reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v MyApp /d myapp.exe
